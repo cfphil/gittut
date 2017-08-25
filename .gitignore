@@ -2,3 +2,5 @@
 *.zip
 log/
 junk/
+#tempfile2.txt
+The Fourth File.txt
