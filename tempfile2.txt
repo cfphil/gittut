@@ -2,5 +2,5 @@ this is another temp file.
 
 I am shortening the title.
 
-"Here is a shorter title"
+"Here is a shorter title - with a suffix"
 
