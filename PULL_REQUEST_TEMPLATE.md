@@ -1,11 +1,6 @@
-# Pull Request Template
-
-[Please ensure you follow the guidelines for PRs](https://www.some_link_with_our_guidlines.com#could_be_tweaked_per_project")
-
 ## What does this do and why?
 
 *remember, most will NOT be familiar with the project. Provide suitable context for the reviewer*
-
 
 
 
@@ -15,11 +10,9 @@
 
 
 
-
 ## What are the risks of making this change?
 
 *show that you have considered the impact of making this change*
-
 
 
 
