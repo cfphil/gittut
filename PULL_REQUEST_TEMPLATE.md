@@ -1,5 +1,5 @@
 #### What does this do and why?
-...Provide suitable context for the reviewer. Remember, most will NOT be familiar with the project.
+...Provide suitable context for the reviewer. Remember, most will NOT be familiar with the project, provide as much info as possible.
 
 #### How has the change been tested?
 ...How can you be sure it works and does not break other code
